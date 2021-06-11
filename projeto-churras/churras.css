@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
+body{
+    background-image: url("imagens/wp7738905.jpg");
+    background-size: cover;
+    font-family: "poppins";
+
+}
+
+header{
+    height: 100px;
+    width: 100%;
+}
+header h1{
+    font-size: 3rem;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 6px black ;
+}
+
+.container1{
+    max-width: 300px;
+    background-color: rgba(0, 0, 0, 0.582);
+    padding: 2rem;
+    border-radius:10px ;
+    color: blanchedalmond;
+    float: right;
+    margin-right: 12rem;
+    margin-top: 5rem;
+    
+    
+}
+.container2{
+    max-width: 300px;
+    background-color: rgba(0, 0, 0, 0.582);
+    padding: 2rem;
+    border-radius:10px ;
+    color: blanchedalmond;
+    margin-left: 12rem;
+    margin-top: 9rem;
+    font-size: 18px;
+    display: inline-block;
+
+}
+
+.seta img{
+    height: 100px;
+    max-width: 150px;
+    float: right;
+    margin-right:7rem;
+    margin-top: 12rem;
+    
+    
+    
+}
+input{
+    width: 100%;
+    display: block;
+    padding:5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    border-radius: 1rem;
+
+}
+button{
+    font-size: 1rem;
+    background-color: rgba(9, 12, 17, 0.459);
+    color: white;
+    padding: 10px;
+    border-radius: 2rem;
+    
+    
+}
